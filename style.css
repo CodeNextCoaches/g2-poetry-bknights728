@@ -1,0 +1,36 @@
+body{
+	text-align: center;
+	background-color: #72a7f9;
+	font-family: 'Macondo', cursive;
+	color: #42f459;
+}
+
+header{
+	border: 3px solid #000000;
+	background-image: url("img_mouseover3.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+nav ul li{
+	list-style: none;
+}
+
+main h2{
+	font-style: italic;
+}
+
+#tupac-poem-img{
+	width: 150px;
+	height:200px;
+}
+
+#shel-poem-img{
+	width:130px;
+	height: 180 px;
+}
+
+#rosario-poem-img{
+	width: 10%;
+	height:auto;
+}
